@@ -33,7 +33,7 @@ public class VariableLab {
             pieEaten = true;
         }
         // PROFILE MAKER
-        System.out.println("Name: " + firstName + "" + lastName);
+        System.out.println("Name: " + firstName + " " + lastName);
         System.out.println("You are " + height + "cm tall.");
         System.out.println("Weight on Earth (N): " + newWeight * GRAVITY + " NEWTONS");
         System.out.println("Pie Area: " + pieRadius * pieRadius * PI + " square inches");
